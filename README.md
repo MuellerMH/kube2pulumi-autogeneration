@@ -13,3 +13,6 @@ make k2p
 4. CleanUp generated Content
 
 Enjoy automation with Pulumi
+
+
+https://www.youtube.com/watch?v=rufsmpIxt5c
